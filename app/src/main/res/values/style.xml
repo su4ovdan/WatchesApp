@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ThemeNameStyle">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:layout_marginBottom">5sp</item>
+    </style>
+
+    <style name="TitleStyle">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowDy">1</item>
+    </style>
+</resources>
